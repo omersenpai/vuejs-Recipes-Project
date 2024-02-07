@@ -1,0 +1,136 @@
+{
+  "destinations": [
+    {
+      "name": "Et Yemekleri",
+      "slug": "et-yemekleri",
+      "image": "et-yemekleri.jpg",
+      "id": 1,
+      "description": "Türk mutfağının zengin lezzetleri arasında yer alan et yemekleri, geleneksel tatlarla buluşuyor. İşte bu destinasyonda sizi bekleyen enfes lezzetlere dair bilgiler.",
+      "experiences": [
+        {
+          "name": "İskender",
+          "slug": "iskender",
+          "image": "iskender.jpg",
+          "description": "İskender, Türk mutfağının klasik lezzetlerinden biridir ve özellikle et severlerin favorisidir. Bu lezzet şöleni, döner eti, tereyağlı yoğurt ve taze domates sosu ile harmanlanarak ortaya çıkar. İlk adım olarak, ince dilimlenmiş döner eti tereyağında kızartılır ve altına yerleştirilmiş olan lavaş veya pide parçalarının üzerine serilir. Üzerine yoğurt dökülerek etle buluşan bu nefis karışım, taze domates sosu ile taçlandırılır. Yoğurtlu etin üzerine sıcak tereyağı gezdirilir ve baharatlarla zenginleştirilir. Son dokunuş olarak da pul biber ve taze yeşilliklerle süslenir. İskender, sıcak ve soğuk bileşenlerin muazzam bir uyumu ile damaklarda unutulmaz bir iz bırakır. Bu özel lezzet, genellikle yanında közlenmiş biber ve domatesle servis edilir, tam bir görsel şölen sunarak sofralara ayrıcalık katmaya devam eder."
+        },
+        {
+          "name": "Kuzu Tandır",
+          "slug": "kuzu-tandir",
+          "image": "kuzu-tandir.jpg",
+          "description": "Kuzu tandır, Türk mutfağının eşsiz bir lezzeti olarak öne çıkar ve uzun ve düşük ısıda pişirme süreciyle mükemmel bir yumuşaklık ve lezzet elde eder. İlk adım olarak, temizlenmiş kuzu eti genellikle bacak kısmından tercih edilir ve üzerine bir miktar tuz, karabiber, pul biber, sarımsak ve zeytinyağı karışımı sürülerek marine edilir. Daha sonra et, geniş bir tepsiye veya tandır tepsisine yerleştirilir ve üzerine dilimlenmiş soğan ve biber eklenir. Tandırın içine konulan bu harika karışım, düşük sıcaklıkta uzun süre pişirilerek etin suyunu içinde muhafaza etmesi sağlanır. Tandırın içindeki et, yavaş yavaş kendi suyunda pişerken, baharatlarla harmanlanarak benzersiz bir aroma kazanır. Kuzu tandır, kızarmış ve üzeri kıtır kıtır olan bu lezzetli etin yanında taze yeşilliklerle süslenerek sıcak servis edilir. Sadece lezzeti değil, odadaki mis gibi kokusuyla da damakları şenlendiren bu özel yemek, özel günlerin vazgeçilmezi ve sofraların baş tacıdır."
+        },
+        {
+          "name": "Hünkar Beğendi",
+          "slug": "hunkar-begendi",
+          "image": "hunkar-begendi.jpg",
+          "description": "Hünkar Beğendi, zengin ve yoğun lezzetleriyle Osmanlı İmparatorluğu'nun sofralarını süsleyen bir başyapıttır. İlk olarak kuzu eti, tereyağı ve baharatlarla marine edilip pişirilir. Bu sırada, patlıcan közlenir ve kabukları soyularak püre haline getirilir. Püre, biraz tereyağı ve rendelenmiş kaşar peyniri ile harmanlanarak beğendi adı verilen muazzam kıvama getirilir. Kuzu eti, pişirildikten sonra bu lezzetli beğendi püresinin üzerine konulur ve özenle servis edilir. Hünkar Beğendi, yoğun ve kremsi kıvamıyla damakları şımartırken, kuzu etinin aromatik lezzetiyle bütünleşerek unutulmaz bir lezzet sunar. Genellikle özel davetlerde, bayram sofralarında ve özel günlerde tercih edilen bu yemek, Osmanlı mutfağının zengin mirasını günümüze taşıyan bir lezzet şölenidir."
+        },
+        {
+          "name": "Adana Kebabı",
+          "slug": "adana-kebabi",
+          "image": "adana-kebabi.jpg",
+          "description": "Adana kebabı, özellikle mangalda pişirilen bir kebap çeşidi olup, adını Türkiye'nin güneyindeki Adana şehrinden alır. Hazırlığı titizlik ve özen isteyen bu lezzetin temelinde dana veya kuzu eti bulunur. Et, genellikle kuyruk yağı ve baharatlarla yoğrularak harmanlanır. Ardından, özel olarak hazırlanan bu karışım, metal şişlere şekil verilerek dikkatlice sarılır. Mangalda közlenen ateşte, odun kömürü veya meşe odunu ile pişirilen Adana kebabı, karakteristik acılığıyla öne çıkar. Servis edilirken genellikle lavaş ekmeği, sumaklı soğan salatası ve nar ekşisi ile birlikte sunulur. Hem Türk hem de uluslararası mutfaklarda popüler olan Adana kebabı, eşsiz lezzeti ve baharatlı dokusuyla kebap tutkunlarını mest eden bir lezzettir."
+        }
+      ]
+    },
+    {
+      "name": "Tavuk Yemekleri",
+      "slug": "tavuk-yemekleri",
+      "image": "tavuk-yemekleri.webp",
+      "id": 2,
+      "description": "Hafif ve lezzetli tavuk yemekleri, sağlıklı ve lezzetli bir sofranın anahtarını sunar. İşte bu destinasyonda sizi bekleyen tavuklu lezzetlere dair bilgiler.",
+      "experiences": [
+        {
+          "name": "Tavuk Şiş",
+          "slug": "tavuk-sis",
+          "image": "tavuk-sis.jpg",
+          "description": "Tavuk şiş, basit ama bir o kadar da lezzetli bir Türk mutfağı klasiğidir. Hazırlığı oldukça kolay olan bu yemek için öncelikle tavuk göğsü veya tavuk butları, doğranarak eşit parçalara ayrılır. Tavuk parçaları, genellikle yoğurt, zeytinyağı, limon suyu, sarımsak, tuz ve baharatlar içeren bir marinat ile kaplanır ve bu karışımın içinde bir süre dinlendirilir. Ardından, tavuk parçaları şişlere geçirilir ve mangal veya ızgara üzerinde pişirilir. Pişirme sırasında ara sıra çevrilerek eşit şekilde kızarması sağlanır. Tavuk şiş, pişerken yayılan muhteşem kokusu ve mangal ateşindeki lezzetiyle sofralara neşe katar. Servis edilirken genellikle pilav, lavaş veya pide ile birlikte sunulan tavuk şiş, yaz aylarında pikniklerden, bahçe partilerine kadar birçok ortamda tercih edilen bir lezzettir."
+        },
+        {
+          "name": "Tavuk Çorbası",
+          "slug": "tavuk-corbasi",
+          "image": "tavuk-corbasi.jpg",
+          "description": "Tavuk çorbası, içerdiği vitaminler ve besin değerleriyle soğuk günlerin kurtarıcısı ve hastalıkların şifalı dostudur. İlk adım olarak, tavuk göğsü veya butu su ile haşlanır ve tavuk suyu elde edilir. Ardından, içerisine doğranmış sebzeler, genellikle havuç, patates ve soğan eklenir. Sebzeler tavuk suyu ile birlikte kaynayarak yumuşayana kadar pişirilir. Baharatlar, tuz ve karabiberle lezzetlendirilen çorba, pirinç veya şehriye gibi malzemelerle de zenginleştirilebilir. Bazı tariflerde, taze nane veya maydanoz gibi otlar eklenerek çorbanın aroması artırılır. Tavuk çorbası, sıcak, besleyici ve hafif dokusuyla hem mideleri hem de kalpleri ısıtan bir lezzettir. Her bir kaşıkta sevgiyle hazırlanmış bir çorba olan tavuk çorbası, sofralarda sıkça tercih edilen, hem besleyici hem de lezzetli bir çorba seçeneğidir."
+        },
+        {
+          "name": "Tavuklu Mantar Sote",
+          "slug": "tavuklu-mantar-sote",
+          "image": "tavuklu-mantar-sote.jpg",
+          "description": "Tavuklu mantar sote, tavuk eti ve taze mantarların harmanlanmasıyla ortaya çıkan nefis bir lezzettir. İlk olarak tavuk göğsü, küp şeklinde doğranarak bir tavada yağda kavrulur. Tavuklar renk değiştirmeye başladığında doğranmış mantarlar eklenir ve birlikte soteleme işlemine devam edilir. Mantarlar suyunu salıp çekene kadar kısık ateşte pişirilir. Ardından, yemek malzemelerine baharatlar eklenir; tuz, karabiber, pul biber veya kekik gibi tercih edilen baharatlarla lezzetlendirilir. Soteleme işlemi sona erdiğinde, yemek servis tabağına alınır ve üzerine taze doğranmış yeşillikler, maydanoz veya taze soğan ile süslenir. Tavuklu mantar sote, sade bir pilav veya ekmekle birlikte servis edilerek hafif ve doyurucu bir öğün haline gelir. Hem hızlı hazırlanabilirliği hem de lezzetiyle sofraların vazgeçilmezlerinden biri olan bu yemek, pratik ve sağlıklı bir seçenek sunar."
+        },
+        {
+          "name": "Fırın Tavuk Kanatları",
+          "slug": "firin-tavuk-kanatlari",
+          "image": "firin-tavuk-kanatlari.jpg",
+          "description": "Fırında tavuk kanatları, hafif baharatlarla marine edilmiş ve fırında pişirilmiş nefis bir atıştırmalık veya ana yemek seçeneğidir. Tavuk kanatları önceden temizlenir ve kurulanır. Bir karışım hazırlanarak tavuk kanatlarına sürülür. Bu karışım genellikle zeytinyağı, rendelenmiş sarımsak, tuz, karabiber, toz biber ve baharatlardan oluşur. Tavuk kanatları, bu marinat ile kaplandıktan sonra buzdolabında bir süre dinlendirilir. Ardından, fırın ısındığında tavuk kanatları fırın tepsisine yerleştirilir ve altın kahverengi bir renk alana kadar pişirilir. Fırında tavuk kanatları, sıcak ve çıtır çıtır dış kısmı ile içi yumuşak ve lezzetli bir yapıya sahip olur. Servis edilirken üzerine taze doğranmış yeşillikler veya limon suyu eklenerek tüketilebilir. Bu pratik tarif, misafirlerinizi etkilemek veya hızlı bir yemek hazırlamak istediğinizde mükemmel bir tercihtir."
+        }
+      ]
+    },
+    {
+      "name": "Vejetaryan Yemekleri",
+      "slug": "vejetaryan-yemekler",
+      "image": "vejetaryan-yemekler.jpg",
+      "id": 3,
+      "description": "Sebzelerle hazırlanan nefis vejetaryan yemekleri, sağlıklı ve lezzetli bir diyetin kapılarını aralar. İşte bu destinasyonda sizi bekleyen vejetaryan lezzetlere dair bilgiler.",
+      "experiences": [
+        {
+          "name": "Ispanaklı Börek",
+          "slug": "ispanakli-borek",
+          "image": "ispanakli-borek.jpg",
+          "description": "Ispanaklı börek, hafif ve sağlıklı iç harcıyla öne çıkan geleneksel bir Türk böreğidir. Öncelikle, taze ıspanaklar iyice yıkanır, doğranır ve bir tavada soteleme işlemine tabi tutulur. Ispanaklar suyunu bıraktıktan sonra süzülür. Ardından, ince yufka veya baklavalık börek hamuru kullanılarak kat kat bir yapı oluşturulur. Hamurun her katına tereyağı veya sıvı yağ sürülerek aralara ıspanaklı iç harç eklenir. Hamur katları arasında oluşan bu nefis ıspanaklı iç harç, böreği lezzetlendirir. Son olarak, börek fırına verilmeden önce üzerine yumurta sarısı sürülerek güzelce kızarması sağlanır. Fırından çıktıktan sonra dilimlenen ıspanaklı börek, sıcak veya ılık olarak servis edilebilir. Ispanaklı börek, kahvaltılarda, brunchlarda veya çay saatlerinde tercih edilen, hem doyurucu hem de besleyici bir lezzettir."
+        },
+        {
+          "name": "Zeytinyağlı Yaprak Sarma",
+          "slug": "zeytinyagli-yaprak-sarma",
+          "image": "zeytinyagli-yaprak-sarma.jpg",
+          "description": "Yaprak sarma, taze üzüm yaprakları ile sarılan iç harcıyla sofralara lezzet katan bir Türk mutfağı klasiğidir. İlk adım olarak, taze üzüm yaprakları kaynar su içinde bekletilir ve ardından sap kısımları kesilerek hazırlanır. İç harcı için genellikle pirinç, kıyma, soğan, yeşillikler ve baharatlar kullanılır. Bu iç harcı hazırlamak için öncelikle soğanlar doğranarak kavrulur, ardından kıyma eklenir ve kavrulmaya devam edilir. İçine yıkanmış pirinç, doğranmış yeşillikler ve baharatlar eklenerek karışım hazırlanır. Üzüm yaprakları üzerine bu iç harçtan konularak sıkıca sarılır ve sarmalar bir tencereye dizilir. Üzerine su, zeytinyağı ve tuz eklenerek sarmaların pişirilmesi sağlanır. Düşük ateşte yavaşça pişirilen yaprak sarma, suyunu çekip iç harcın iyice pişmesiyle enfes bir lezzet haline gelir. Genellikle soğuk olarak servis edilen yaprak sarma, yoğurt veya limon dilimleri ile tamamlanarak sunulur. Hem doyurucu hem de hafif bir lezzet arayanlar için mükemmel bir seçenektir."
+        },
+        {
+          "name": "Mercimek Köftesi",
+          "slug": "mercimek-kofte",
+          "image": "mercimek-kofte.jpg",
+          "description": "Mercimek köftesi, besleyici ve doyurucu içeriğiyle ön plana çıkan geleneksel bir Türk atıştırmalığıdır. İlk olarak kırmızı mercimek, suyla haşlanır ve suyunu çekene kadar pişirilir. Haşlanan mercimek, genellikle ince bulgur, domates salçası, ince doğranmış yeşillikler (soğan, taze yeşil soğan, maydanoz), zeytinyağı ve baharatlarla yoğrularak homojen bir kıvam elde edilir. Yoğurma işlemi sırasında köftenin üzerine nar ekşisi ve limon suyu da eklenir, bu da hem köfteye ekstra lezzet katar hem de köftenin rengini güzelleştirir. Köfte karışımı, ceviz büyüklüğünde parçalara bölünerek şekil verilir. Genellikle marulların üzerine yerleştirilen bu nefis köfteler, limon dilimleri veya taze yeşilliklerle süslenerek servis edilir. Geleneksel bir mezelerden biri olan mercimek köftesi, pratik hazırlanışı ve doyurucu özelliğiyle sofralarda sıkça tercih edilen bir lezzettir."
+        },
+        {
+          "name": "Kısır",
+          "slug": "kisir",
+          "image": "kisir.jpg",
+          "description": "Kısır, Türk mutfağının vazgeçilmez ve pratik tariflerinden biridir. Genellikle bulgur, domates salçası, nar ekşisi, limon suyu ve baharatlar ile hazırlanan bu lezzetli salata, özellikle yaz aylarında sofraların baş tacıdır. İlk olarak ince bulgurların üzerine sıcak su eklenerek şişmeleri sağlanır. Ardından içerisine rendelenmiş domates, taze soğan, taze nane ve maydanoz gibi taze malzemeler eklenir. Renkli biberlerle zenginleştirilen kısır karışımına nar ekşisi, limon suyu, zeytinyağı ve baharatlar da eklenerek muhteşem bir lezzet elde edilir. Bu karışım, genellikle marulların içerisine sarılarak servis edilir. Hem sağlıklı hem de doyurucu olan kısır, özellikle pikniklerde, davet sofralarında ve yaz günlerinde hafif bir öğün tercihi olarak öne çıkar. Aromatik tadı ve taze malzemelerin harmonisiyle damakları şenlendiren kısır, sofralara neşe ve lezzet katmaya devam eder."
+        }
+      ]
+    },
+    {
+      "name": "Tatlılar",
+      "slug": "tatlilar",
+      "image": "tatlilar.jpg",
+      "id": 4,
+      "description": "Dünyanın dört bir yanından enfes tatlılar, Türk mutfağının şekerli lezzetlerinden oluşan bu destinasyonda sizi bekliyor. İşte bu destinasyonda sizi bekleyen tatlılara dair bilgiler.",
+      "experiences": [
+        {
+          "name": "Baklava",
+          "slug": "baklava",
+          "image": "baklava.jpg",
+          "description": "Baklava, Türk mutfağının en ünlü ve sevilen tatlılarından biridir. Özel bir hamur olan yufka, ince katlar halinde açılır ve aralarına bolca tereyağı sürülerek hazırlanır. Yufkaların arasına yerleştirilen iç harç, genellikle dövülmüş ceviz, fıstık veya badem içermektedir. Yufka katları arasına serpiştirilen iç harç, baklavanın lezzetini tamamlayan unsurlardan biridir. Hazırlanan baklava, dilimlenerek fırına verilir ve altın rengi bir kıvam alana kadar pişirilir. Fırından çıktıktan sonra sıcak şeker şerbeti, sıcak baklavaya dökülerek şerbetin iyice çekmesi sağlanır. Bu işlem, baklavanın üzerine hafif bir kıtır tabaka kazandırırken, iç harcın da yumuşak ve şeker şurubuyla tatlandığı bir denge oluşturur. Baklava dilimlendikten sonra genellikle üzerine dövülmüş antep fıstığı serpilir ve servise hazır hale getirilir. Tatlı krizlerini şık bir şekilde gideren ve özel gün sofralarının vazgeçilmezi olan baklava, Türk mutfağının gurur kaynaklarından biridir."
+        },
+        {
+          "name": "Şekerpare",
+          "slug": "sekerpare",
+          "image": "sekerpare.jpg",
+          "description": "Şekerpare, Türk mutfağının vazgeçilmez tatlılarından biridir ve özellikle bayram sofralarını süsleyen geleneksel bir lezzettir. İlk olarak, bir karışım hazırlanır; un, irmik, tuz ve yoğurt yoğrularak homojen bir hamur elde edilir. Hazırlanan hamurdan ceviz büyüklüğünde parçalar koparılarak yuvarlanır ve ortasına ceviz içi konulur. Şekil verilen hamur parçaları yağlı kağıt serili bir tepsiye aralıklı olarak yerleştirilir. Önceden ısıtılmış fırında üzeri iyice kızarana kadar pişirilir. Aynı anda, ayrı bir tencerede şeker ve su kaynatılarak şerbet hazırlanır. Fırından çıkan sıcak şekerparelerin üzerine sıcak şerbet dökülerek şerbetin iyice çekmesi sağlanır. Şekerparelerin şerbeti çekmesiyle yumuşak bir dokuya sahip, içi ceviz dolgulu ve üzeri hafif kıtır bir tabaka ile kaplı nefis bir tatlı elde edilir. Şekerpare, üzerine hindistancevizi veya dövülmüş fıstık serpilerek servis edilir ve misafir sofralarının vazgeçilmezi haline gelir."
+        },
+        {
+          "name": "Revani",
+          "slug": "revani",
+          "image": "revani.jpg",
+          "description": "Revani, Türk mutfağının sevilen şerbetli tatlılarından biridir. Hazırlığı oldukça basit olan bu lezzetli tatlı, irmik, yumurta, un ve yoğurt gibi temel malzemelerle yapılır. İlk olarak, yumurta ve şeker iyice çırpılır ve ardından irmik, un ve yoğurt eklenerek homojen bir kek hamuru elde edilir. Hamur, yağlı kağıt serili bir tepsiye düzgünce yayılır ve önceden ısıtılmış fırında altın rengi bir kıvama gelene kadar pişirilir. Pişen kek, dilimlere ayrılır ve üzerine sıcak şeker şerbeti dökülerek şerbetin iyice çekmesi sağlanır. Şeker şerbeti, genellikle su, şeker ve birkaç damla limon suyunun kaynatılması ile hazırlanır. Revani, soğuduktan sonra dilimlenerek servis edilir. Üzerine dövülmüş ceviz veya fıstık serpilerek süslenir ve tatlının içindeki hafif tane dokusu, şerbetin tatlılığıyla mükemmel bir denge oluşturur. Revani, özel günlerde, bayramlarda veya misafir sofralarında sıklıkla tercih edilen bir Türk tatlısıdır."
+        },
+        {
+          "name": "Fırın Sütlaç",
+          "slug": "firin-sutlac",
+          "image": "firin-sutlac.jpg",
+          "description": "Fırın sütlacı, süt, pirinç unu, şeker ve vanilin gibi malzemelerin bir araya getirilerek yapılan, hafif karamelize bir üst tabakaya sahip olan enfes bir Türk tatlısıdır. İlk olarak, süt ve pirinç unu bir tencerede karıştırılarak orta ateşte pişirilir. Şeker eklenir ve sürekli karıştırılarak koyu bir kıvam alana kadar kaynatılır. Vanilin ilave edilerek karışımın lezzeti zenginleştirilir. Hazırlanan sütlacın fırın kabına alınmasının ardından, önceden ısıtılmış fırında üzeri iyice kızarıncaya kadar pişirilir. Fırın sütlacı, fırından çıktıktan sonra oda sıcaklığında soğumaya bırakılır ve ardından buzdolabına konularak iyice soğutulur. Servis öncesinde üzerine dövülmüş fıstık, ceviz veya tarçın serpilerek süslenir. Fırın sütlacı, hem kıvamı hem de lezzetiyle sofralarda özel bir yere sahiptir. Özellikle ramazan ayında, bayramlarda veya özel günlerde sıkça tercih edilen bu tatlı, süt ve pirinçin muazzam uyumu ile damakları şenlendirir."
+        }
+      ]
+    }
+  ]
+}
